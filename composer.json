@@ -1,0 +1,13 @@
+{
+    "name": "larakuy/gencrud",
+    "description": "Simple CRUD for Larakuy",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ferdhika Yudira",
+            "email": "rpl4rt08@gmail.com"
+        }
+    ],
+    "require": {}
+}
